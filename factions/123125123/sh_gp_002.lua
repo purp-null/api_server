@@ -1,1 +1,1 @@
-{"desc":"factionTestDesc","models":["model1","model2","model3"],"name":"factionTest"}
+{"desc":"factionTestDesc","models":["model1","model2","model3","model4"],"name":"factionTest"}

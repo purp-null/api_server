@@ -1,1 +1,1 @@
-{"1717067640":{"weight":0.1,"width":2.0,"name":"Вязаная шапка","icon":"knitted-hat","model":"models/Gibs/HGIBS.mdl","height":2.0,"description":"Вязаная шапка ОПИСАНИЕ"}}
+{"1717067640":{"weight":0.1,"width":2.0,"name":"Вязаная шапка NEW","icon":"knitted-hat","model":"models/Gibs/HGIBS.mdl","height":2.0,"description":"Вязаная шапка ОПИСАНИЕ"}}

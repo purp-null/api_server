@@ -1,1 +1,1 @@
-{"1717067640":{"weight":0.1,"model":"models/props_interiors/pot01a.mdl","customkey":"100","icon":"juice","width":1.0,"height":2.0,"name":"Вязаная шапка 123","description":"Вязаная шапка ОПИСАНИЕ"}}
+{"1717067640":{"weight":0.1,"model":"models/props_interiors/pot01a.mdl","customkey":"100","icon":"juice","width":1.0,"height":2.0,"name":"Вязаная шапка Jeka","description":"Вязаная шапка ОПИСАНИЕ"}}
